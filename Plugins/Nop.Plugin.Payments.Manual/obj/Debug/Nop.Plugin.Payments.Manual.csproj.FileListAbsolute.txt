@@ -1,0 +1,12 @@
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.Manual\Views\Configure.cshtml
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.Manual\Views\PaymentInfo.cshtml
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.Manual\Description.txt
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.Manual\web.config
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.Manual\logo.jpg
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.dll.config
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.dll
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.pdb
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.csproj.App.config
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.csprojResolveAssemblyReference.cache
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.dll
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.pdb

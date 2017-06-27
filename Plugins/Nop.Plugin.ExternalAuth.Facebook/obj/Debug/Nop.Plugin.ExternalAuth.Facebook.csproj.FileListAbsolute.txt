@@ -1,0 +1,14 @@
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Description.txt
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Views\Configure.cshtml
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Views\PublicInfo.cshtml
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\web.config
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Content\facebookstyles.css
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Content\Images\facebook-signing.png
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\logo.jpg
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Nop.Plugin.ExternalAuth.Facebook.dll.config
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Nop.Plugin.ExternalAuth.Facebook.dll
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\ExternalAuth.Facebook\Nop.Plugin.ExternalAuth.Facebook.pdb
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\Nop.Plugin.ExternalAuth.Facebook.csproj.App.config
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\Nop.Plugin.ExternalAuth.Facebook.csprojResolveAssemblyReference.cache
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\Nop.Plugin.ExternalAuth.Facebook.dll
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Plugins\Nop.Plugin.ExternalAuth.Facebook\obj\Debug\Nop.Plugin.ExternalAuth.Facebook.pdb

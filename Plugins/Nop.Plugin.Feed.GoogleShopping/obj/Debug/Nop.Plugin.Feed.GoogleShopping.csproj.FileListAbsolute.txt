@@ -1,0 +1,11 @@
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Feed.GoogleShopping\Content\styles.css
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Feed.GoogleShopping\Views\Configure.cshtml
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Feed.GoogleShopping\Description.txt
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Feed.GoogleShopping\web.config
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Feed.GoogleShopping\logo.jpg
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Feed.GoogleShopping\Nop.Plugin.Feed.GoogleShopping.dll.config
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Feed.GoogleShopping\Nop.Plugin.Feed.GoogleShopping.dll
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\Feed.GoogleShopping\Nop.Plugin.Feed.GoogleShopping.pdb
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Feed.GoogleShopping\obj\Debug\Nop.Plugin.Feed.GoogleShopping.csproj.App.config
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Feed.GoogleShopping\obj\Debug\Nop.Plugin.Feed.GoogleShopping.dll
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Plugins\Nop.Plugin.Feed.GoogleShopping\obj\Debug\Nop.Plugin.Feed.GoogleShopping.pdb

@@ -1,0 +1,11 @@
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Views\Configure.cshtml
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Description.txt
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\web.config
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\logo.jpg
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Nop.Plugin.DiscountRules.CustomerRoles.dll.config
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Nop.Plugin.DiscountRules.CustomerRoles.dll
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Nop.Plugin.DiscountRules.CustomerRoles.pdb
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\Nop.Plugin.DiscountRules.CustomerRoles.csproj.App.config
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\Nop.Plugin.DiscountRules.CustomerRoles.csprojResolveAssemblyReference.cache
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\Nop.Plugin.DiscountRules.CustomerRoles.dll
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\Nop.Plugin.DiscountRules.CustomerRoles.pdb

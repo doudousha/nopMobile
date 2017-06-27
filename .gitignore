@@ -1,0 +1,14 @@
+/Presentation/Nop.Web/bin
+/Tests/Nop.Core.Tests/bin
+/Tests/Nop.Data.Tests/bin
+/Debug
+/Tests/Nop.Services.Tests/bin
+/Tests/Nop.Tests/bin
+/Tests/Nop.Web.MVC.Tests/bin
+/Presentation/Nop.Web.Framework/bin
+/Tests
+/packages
+/.vs
+/Libraries/Nop.Core
+/Libraries/Nop.Data
+/Libraries/Nop.Services

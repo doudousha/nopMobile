@@ -1,0 +1,8 @@
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Description.txt
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\logo.jpg
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.dll.config
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.dll
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.pdb
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.csprojResolveAssemblyReference.cache
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.dll
+D:\搜狗高速下载\北京圣思园OOAD与UML\nopCommerce_3.90_Source\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.pdb
